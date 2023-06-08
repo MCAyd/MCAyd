@@ -19,7 +19,6 @@
 [![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/MCAyd)
 [![Scala](https://img.shields.io/badge/scala-black?style=for-the-badge&logo=scala)](https://github.com/MCAyd)
 
-
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/MCAyd)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/MCAyd)

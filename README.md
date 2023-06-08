@@ -1,10 +1,11 @@
-<h1 align="center">Hi, guys!</h1>
+<h1 align="center">Hello there!</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Mehmet Can.<br>
         Currently pursuing Master's Degree in Data Science at University of Surrey, UK.<br>
+        Previously Industrial Engineering Honor Graduate of Ozyegin University, TR. <br>
         Open to work as Junior Data Scientist after September 2023.<br>
     </i><br>
    <a href="https://www.linkedin.com/in/mcauk">

@@ -42,6 +42,10 @@
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)](https://github.com/MCAyd)
 [![GCP](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloudplatform)](https://github.com/MCAyd)
 
+### Natural Language Processing
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge&logo=HuggingFace)](https://huggingface.co)
+[![Gensim](https://img.shields.io/badge/Gensim-black?style=for-the-badge&logo=Gensim)](https://radimrehurek.com/gensim/)
+
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MCAyd)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/MCAyd)

@@ -14,10 +14,10 @@
 </p>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MCAyd)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/MCAyd)
-[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/MCAyd)
-[![Scala](https://img.shields.io/badge/scala-black?style=for-the-badge&logo=scala)](https://github.com/MCAyd)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)]
+[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)]
+[![Scala](https://img.shields.io/badge/scala-black?style=for-the-badge&logo=scala)]
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
@@ -47,8 +47,8 @@
 [![Gensim](https://img.shields.io/badge/Gensim-black?style=for-the-badge&logo=Gensim)](https://radimrehurek.com/gensim/)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MCAyd)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/MCAyd)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)]
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]
 
 <details>
 <p align="center">

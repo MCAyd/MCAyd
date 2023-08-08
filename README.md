@@ -11,6 +11,9 @@
    <a href="https://www.linkedin.com/in/mcauk">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+   <a href="https://cohire-cv-bucket-1.s3.eu-west-1.amazonaws.com/cvs/MehmetAydin%20%28cord-f1ab872b5f7d5b11%29.pdf?AWSAccessKeyId=AKIA3IXJIPATKJ6YNIWB&Expires=1691526108&Signature=VV3ork0RYnVFcFyh9Cn%2BK8bQUns%3D">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    </a>  
 </p>
 
 ### Languages

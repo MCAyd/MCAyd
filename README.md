@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
    <a href="https://drive.google.com/file/d/1G9oTi-FEfPYpbGbaiucxJ7EVG7j3IMnz/view?usp=sharing">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+        <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
     </a>  
 </p>
 

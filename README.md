@@ -12,7 +12,7 @@
    <a href="https://www.linkedin.com/in/mcauk">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-   <a href="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.29810-6/422474374_263993646731685_8987885228481378304_n.jpg/MCAydin_CV.pdf?_nc_cat=108&ccb=1-7&_nc_sid=dccaef&_nc_ohc=8HocnE9ir7kAX84NdOR&_nc_ht=scontent-lhr8-1.xx&oh=00_AfBoR_uyCkM3B42d3f9LtwwhN_owPNzxJzZmrXp3YSdLrA&oe=65CA7231">
+   <a href="https://drive.google.com/file/d/1c1vNQ3jXjwX9diQofJhT5fGYJJzbiC3E/view?usp=sharing">
         <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
     </a>  
 </p>

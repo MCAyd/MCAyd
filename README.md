@@ -49,6 +49,7 @@
 ### NLP
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge&logo=HuggingFace)](https://huggingface.co)
 [![Gensim](https://img.shields.io/badge/Gensim-black?style=for-the-badge&logo=Gensim)](https://radimrehurek.com/gensim/)
+[![NLTK](https://img.shields.io/badge/nltk-black?style=for-the-badge&logo=NLTK)](https://www.nltk.org/)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MCAyd)

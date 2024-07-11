@@ -45,6 +45,7 @@
 ### Cloud Computing
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/)
 [![GCP](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloudplatform)](https://cloud.google.com/)
+[![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=azure)](https://azure.microsoft.com/en-gb/)
 
 ### NLP
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge&logo=HuggingFace)](https://huggingface.co)

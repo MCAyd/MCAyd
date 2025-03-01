@@ -7,7 +7,7 @@
         Data Scientist.<br>
         Master's Degree in Data Science at University of Surrey, UK.<br>
         Previously Industrial Engineering Honor Graduate of Ozyegin University. <br>
-        Open to work as Junior Data Scientist after September 2023.<br>
+        Now Supply Chain Analyst in Sky UK.<br>
     </i><br>
    <a href="https://www.linkedin.com/in/mcauk">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
